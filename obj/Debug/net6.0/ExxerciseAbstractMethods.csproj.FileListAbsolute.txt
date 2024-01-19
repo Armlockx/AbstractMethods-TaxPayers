@@ -1,0 +1,14 @@
+C:\Users\JulioNVMe\source\repos\ExxerciseAbstractMethods\bin\Debug\net6.0\ExxerciseAbstractMethods.exe
+C:\Users\JulioNVMe\source\repos\ExxerciseAbstractMethods\bin\Debug\net6.0\ExxerciseAbstractMethods.deps.json
+C:\Users\JulioNVMe\source\repos\ExxerciseAbstractMethods\bin\Debug\net6.0\ExxerciseAbstractMethods.runtimeconfig.json
+C:\Users\JulioNVMe\source\repos\ExxerciseAbstractMethods\bin\Debug\net6.0\ExxerciseAbstractMethods.dll
+C:\Users\JulioNVMe\source\repos\ExxerciseAbstractMethods\bin\Debug\net6.0\ExxerciseAbstractMethods.pdb
+C:\Users\JulioNVMe\source\repos\ExxerciseAbstractMethods\obj\Debug\net6.0\ExxerciseAbstractMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JulioNVMe\source\repos\ExxerciseAbstractMethods\obj\Debug\net6.0\ExxerciseAbstractMethods.AssemblyInfoInputs.cache
+C:\Users\JulioNVMe\source\repos\ExxerciseAbstractMethods\obj\Debug\net6.0\ExxerciseAbstractMethods.AssemblyInfo.cs
+C:\Users\JulioNVMe\source\repos\ExxerciseAbstractMethods\obj\Debug\net6.0\ExxerciseAbstractMethods.csproj.CoreCompileInputs.cache
+C:\Users\JulioNVMe\source\repos\ExxerciseAbstractMethods\obj\Debug\net6.0\ExxerciseAbstractMethods.dll
+C:\Users\JulioNVMe\source\repos\ExxerciseAbstractMethods\obj\Debug\net6.0\refint\ExxerciseAbstractMethods.dll
+C:\Users\JulioNVMe\source\repos\ExxerciseAbstractMethods\obj\Debug\net6.0\ExxerciseAbstractMethods.pdb
+C:\Users\JulioNVMe\source\repos\ExxerciseAbstractMethods\obj\Debug\net6.0\ExxerciseAbstractMethods.genruntimeconfig.cache
+C:\Users\JulioNVMe\source\repos\ExxerciseAbstractMethods\obj\Debug\net6.0\ref\ExxerciseAbstractMethods.dll
